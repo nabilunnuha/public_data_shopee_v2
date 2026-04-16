@@ -14,7 +14,7 @@
   {
     "username": "nabilcs",
     "password": "$2b$12$vME1/oEtGmafIJ1fn5OUd.CYT/M/AvEZUJC8XzmJYJXtfaOTYU4uy",
-    "pc_id": "$2b$12$c/xTEpTI4t/fRF8f8N9.yOeusJOZbvFKSAjTCmkRAJCkRqFwfEJJ.",
+    "pc_id": "",
     "expire": 1807276158
   },
   {
@@ -26,7 +26,7 @@
   {
     "username": "elvacs",
     "password": "$2b$12$blaSUVyOEAyB48/6C/W/iOBWr3E5m.eea2tZysPAZqRV2cJ2HnIDS",
-    "pc_id": "$2b$12$c/xTEpTI4t/fRF8f8N9.yOeusJOZbvFKSAjTCmkRAJCkRqFwfEJJ.",
+    "pc_id": "",
     "expire": 1807276158
   }
 ]
